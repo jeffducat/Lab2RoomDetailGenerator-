@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\Lab2RoomDetailGenerator\Lab2RoomDetailGenerator\bin\Debug\Lab2RoomDetailGenerator.exe.config
+C:\Users\jduca\source\repos\Lab2RoomDetailGenerator\Lab2RoomDetailGenerator\bin\Debug\Lab2RoomDetailGenerator.exe
+C:\Users\jduca\source\repos\Lab2RoomDetailGenerator\Lab2RoomDetailGenerator\bin\Debug\Lab2RoomDetailGenerator.pdb
+C:\Users\jduca\source\repos\Lab2RoomDetailGenerator\Lab2RoomDetailGenerator\obj\Debug\Lab2RoomDetailGenerator.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\Lab2RoomDetailGenerator\Lab2RoomDetailGenerator\obj\Debug\Lab2RoomDetailGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\Lab2RoomDetailGenerator\Lab2RoomDetailGenerator\obj\Debug\Lab2RoomDetailGenerator.exe
+C:\Users\jduca\source\repos\Lab2RoomDetailGenerator\Lab2RoomDetailGenerator\obj\Debug\Lab2RoomDetailGenerator.pdb
